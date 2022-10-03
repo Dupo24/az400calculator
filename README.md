@@ -1,4 +1,5 @@
-[![Build Status](https://dev.azure.com/SoloTestOrg/Lab06-Integrating%20External%20Source%20Control/_apis/build/status/Dupo24.az400calculator?branchName=master)](https://dev.azure.com/SoloTestOrg/Lab06-Integrating%20External%20Source%20Control/_build/latest?definitionId=7&branchName=master)
+[![Build Status](https://dev.azure.com/SoloTestOrg/Lab06-Integrating%20External%20Source%20Control/_apis/build/status/Dupo24.az400calculator?branchName=master)](https://dev.azure.com/SoloTestOrg/Lab06-Integrating%20External%20Source%20Control/_build/latest?definitionId=7&branchName=master)  
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
